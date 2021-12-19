@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{E666C4DC-4818-4137-9D29-7F8CA4D4F819}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Keshishyan16</RootNamespace>
-    <AssemblyName>Keshishyan16</AssemblyName>
+    <RootNamespace>Madatyan16</RootNamespace>
+    <AssemblyName>Madatyan16</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
