@@ -1,5 +1,5 @@
 ﻿
-namespace Keshishyan16
+namespace Madatyan16
 {
     partial class Form1
     {
